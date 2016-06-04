@@ -1,0 +1,17 @@
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/obj/Debug/Assembly-CSharp.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/hope6537/Documents/WorkSpace/Survival-Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
